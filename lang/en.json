@@ -1,0 +1,52 @@
+  {
+  "title":
+  {
+    "id": "lang-title",
+    "content": "How it works ?"
+  },
+  "first-step":
+  {
+    "id": "lang-first-step",
+    "content": "Firstly, configure the research website by Ctrl + Click on its research input."
+  },
+  "second-step":
+  {
+    "id": "lang-second-step",
+    "content": "Select it as default research website in the list."
+  },
+  "third-step":
+  {
+    "id": "lang-third-step",
+    "content": "Then Ctrl + Click on Deezer's album."
+  },
+  "define-website":
+  {
+    "id": "lang-define-website",
+    "content": "Research websites"
+  },
+  "support-me":
+  {
+    "id": "lang-support-me",
+    "content": "Support Me !"
+  },
+  "no-website":
+  {
+    "id": "lang-no-website",
+    "content": "You don't have any website."
+  },
+  "way-website":
+  {
+    "id": "lang-way-website",
+    "content": "Ctrl-click on a research input of any website."
+  },
+  "activated":
+  {
+    "id": "lang-activated",
+    "content": "Activated"
+  },
+  "deactivated":
+  {
+    "id": "lang-deactivated",
+    "content": "Disabled"
+  }
+}

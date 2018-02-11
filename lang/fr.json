@@ -1,0 +1,47 @@
+{
+  "history-title":
+  {
+    "id": "history-title",
+    "content": "Historique"
+  },
+  "no-history":
+  {
+    "id": "lang-no-history",
+    "content": "Vous n'avez pas d'historique."
+  },
+  "way-album":
+  {
+    "id": "lang-way-album",
+    "content": "Ctrl-Clique sur une cover d'album/musique Deezer."
+  },
+  "define-website":
+  {
+    "id": "lang-define-website",
+    "content": "Sites de recherche"
+  },
+  "support-me":
+  {
+    "id": "lang-support-me",
+    "content": "Supportez moi !"
+  },
+  "no-website":
+  {
+    "id": "lang-no-website",
+    "content": "Vous n'avez pas de site."
+  },
+  "way-website":
+  {
+    "id": "lang-way-website",
+    "content": "Ctrl-Clique sur un champ de recherche d'un site."
+  },
+  "activated":
+  {
+    "id": "lang-activated",
+    "content": "Activé"
+  },
+  "deactivated":
+  {
+    "id": "lang-deactivated",
+    "content": "Désactivé"
+  }
+}
